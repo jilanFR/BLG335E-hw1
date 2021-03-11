@@ -1,0 +1,18 @@
+in order to run the script follow the instructions bellow:
+
+
+
+1- open a terminal
+
+2-go to program.cpp file destination. 
+
+3- g++ -std=c++11 program.cpp
+
+4- ./a.out algorithmType N file
+
+
+
+keep in mind the changeable variables are:-
+N: Total number of integers to be sorted
+algorithmType: Method to be used to sort( ’b’ for Bubblesort or ’m’ for Merge Sort)
+file: Input file to be read ("sorted.txt" or "unsorted.txt").
